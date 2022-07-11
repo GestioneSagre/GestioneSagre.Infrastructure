@@ -1,0 +1,2 @@
+# GestioneSagre.Infrastructure
+Entità
