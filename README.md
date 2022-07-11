@@ -1,2 +1,1 @@
-# GestioneSagre.Infrastructure
-Entità
+# GestioneSagre Infrastructure
