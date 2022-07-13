@@ -8,6 +8,10 @@
 
   <PropertyGroup>
     <TargetFrameworks>net6.0</TargetFrameworks>
+    <Authors>Angelo Pirola</Authors>
+    <Company>Gestione Sagre</Company>
+    <Product>Gestione Sagre Infrastructure</Product>
+    <Title>Gestione Sagre Infrastructure</Title>
     <Description>GestioneSagre Infrastructure components</Description>
     <PackageTags>gestione sagre infrastructure csharp net netcore web opensource</PackageTags>
     <PackageIcon>Library.png</PackageIcon>
