@@ -14,6 +14,7 @@ public class ProdottoEntity
     public int QuantitaScorta { get; private set; }
     public bool AvvisoScorta { get; private set; }
     public bool Prenotazione { get; private set; }
+    public string GuidFesta { get; private set; }
     public virtual CategoriaEntity Categoria { get; set; }
 
     public void ChangeCategoriaId(int categoriaId)
@@ -59,5 +60,10 @@ public class ProdottoEntity
     public void ChangePrenotazione(bool prenotazione)
     {
         Prenotazione = prenotazione;
+    }
+
+    public void ChangeGuidFesta(string guidFesta)
+    {
+        GuidFesta = guidFesta;
     }
 }
